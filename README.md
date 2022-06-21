@@ -1,2 +1,2 @@
 # AWS-re-Start
-Ejercicios resueltos en el programa AWS re/Start
+Ejercicios desarrollados en el programa de AWS re/Start
